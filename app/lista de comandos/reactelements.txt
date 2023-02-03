@@ -1,0 +1,8 @@
+FAZER ISSO LOGO QUE INICIA O PROJETO
+npm install
+
+REACT NATIVE ELEMENTS
+npm install @rneui/themed @rneui/base
+npm install react-native-vector-icons
+
+npm i react-native-masked-text --save

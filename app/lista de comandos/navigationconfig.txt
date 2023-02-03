@@ -1,0 +1,41 @@
+CORE DE NAVEGAÇÃO DO REACT NAVIGATION
+npm install @react-navigation/native
+
+DEPENDENCIAS DO REACT NAVIGATION
+npx expo install react-native-screens react-native-safe-area-context
+
+ESTRATEGIA DE NAVEGAÇÃO
+
+STACK NAVIGATION
+    https://reactnavigation.org/docs/hello-react-navigation/
+
+    npm install @react-navigation/native-stack
+
+TAB NAVIGATION
+    https://reactnavigation.org/docs/tab-based-navigation/
+
+    npm install @react-navigation/bottom-tabs
+
+DRAW NAVIGATION
+    https://reactnavigation.org/docs/drawer-based-navigation/
+
+    npm install @react-navigation/drawer
+
+    https://docs.expo.dev/versions/latest/sdk/reanimated/
+    expo install react-native-reanimated 
+    
+    e tambem copar no babel.config isso
+    plugins: ['react-native-reanimated/plugin'],
+
+    expo start --clear
+
+    https://docs.expo.dev/versions/v47.0.0/sdk/gesture-handler/
+    npx expo install react-native-gesture-handler
+
+    colar nos imports do app.tsx
+    import 'react-native-gesture-handler';
+
+
+
+
+
